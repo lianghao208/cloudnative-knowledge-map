@@ -10,6 +10,6 @@
 
 - [Service Mesh]()
 
-- [Linux](../Linux)
+- [Linux](./Linux)
 
 - [golang]()
